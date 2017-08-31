@@ -1,0 +1,6 @@
+.root {
+  background-color: salmon;
+  padding: 10px;
+  border: 3px solid darkred;
+  /* appearance: none; ovo je provera za autoprefixer*/
+}
